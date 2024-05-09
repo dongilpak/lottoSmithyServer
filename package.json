@@ -1,0 +1,21 @@
+{
+    "name": "lotto-smithy-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2",
+        "mongoose": "^8.3.4"
+    },
+    "devDependencies": {
+        "eslint": "^9.2.0",
+        "prettier": "^3.2.5"
+    }
+}
